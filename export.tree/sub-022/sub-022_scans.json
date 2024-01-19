@@ -1,0 +1,12 @@
+{
+  "filename": {
+    "Description": "Name of the nifti file"
+  },
+  "operator": {
+    "Description": "Name of the operator"
+  },
+  "randstr": {
+    "LongName": "Random string",
+    "Description": "md5 hash of UIDs"
+  }
+}
