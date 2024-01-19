@@ -1,0 +1,5 @@
+filename	operator	randstr
+anat/sub-040_T1w.nii.gz	n/a	3f001089
+func/sub-040_task-game_run-01_bold.nii.gz	n/a	e17ceb01
+func/sub-040_task-game_run-02_bold.nii.gz	n/a	7b60cf3d
+func/sub-040_task-game_run-03_bold.nii.gz	n/a	55070f31
